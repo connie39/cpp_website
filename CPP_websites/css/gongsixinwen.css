@@ -1,0 +1,67 @@
+
+.news-card{
+	border: 1px solid #d3d3d3;
+    padding: 45px;
+    background: #fff;
+    margin: 35px 0;
+}
+.news{
+	border-bottom:  1px solid #e0e0e0;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+.news-th{
+	margin-bottom: 14px;
+    line-height: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.news-title{
+	float: left;
+    height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 18px;
+    color: #2a6086;
+}
+.news-date{
+    float: right;
+    font-size: 16px;
+    color: #4e8aae;
+    text-align: right;
+    padding: 0px;
+}
+.news-detail{
+	font-size: 14px;
+    color: #666;
+    line-height: 20px;
+}
+.news-page{
+	text-align: center;
+	
+}
+.left-news{
+}
+.left-news h4{
+	margin: 0px 40px;
+}
+.news-link{
+	margin: 10px 0;
+}
+.title{
+	border-left: 5px #4e8aae solid;
+	padding: 0px 10px;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover{
+	background-color: #4e8aae;
+	border-color: #4e8aae;
+}
+.ourteam-grid1{
+	padding: 30px 60px;
+}
+.new-img{
+	width:100px;
+	height:100px;
+}
